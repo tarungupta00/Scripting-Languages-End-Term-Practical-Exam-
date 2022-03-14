@@ -1,7 +1,7 @@
 # Scripting-Languages-End-Term-Practical-Exam-
 
 
-In relation to ONLINE Scripting Languages End-Semester Practical Examination of March 2022 the following is to be noted:
+In relation to ONLINE Scripting Languages and R programming End-Semester Practical Examination of March 2022 the following is to be noted:
 
 Firstly, you need to fork this repository so that you can push the changes to your repository and then finally create a pull request to it.
 
